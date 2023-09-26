@@ -1,6 +1,6 @@
 # Cinema Room REST Service
 
-The Cinema Room REST Service is a Java-based RESTful web service that simulates a cinema booking system. The application allows users to view available seats, purchase tickets, return tickets, and view the statistics of the cinema room.
+The Cinema Room REST Service is a Java-based RESTful web service that simulates a cinema booking system. This project is part of the JetBrains Academy Java Backend Developer Path. The application allows users to view available seats, purchase tickets, return tickets, and view the statistics of the cinema room.
 
 ## Key Functionalities
 
@@ -41,3 +41,5 @@ Users can view the statistics of the cinema room. The statistics include the cur
 - `Spring Boot DevTools`: Provides fast application restarts, LiveReload, and configurations for enhanced development experience.
 
 ---
+
+Please note that this is a high-level overview and some details may need to be adjusted based on a more detailed understanding of the project.
